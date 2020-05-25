@@ -15,11 +15,11 @@ Additional online presence:
 
 # Test Gif
 
-![](https://github.com/zygurt/zygurt.github.io/blob/master/Media/Sines_small.gif)
+![](https://raw.githubusercontent.com/zygurt/zygurt.github.io/master/Media/Sines.gif)
 
 # Test Video
 
-<video width="400" height="400" controls>
+<video width="400" height="400" controls loop>
  <source src="https://github.com/zygurt/zygurt.github.io/raw/master/Media/Sines.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
