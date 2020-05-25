@@ -12,3 +12,10 @@ Additional online presence:
 - [Youtube](https://www.youtube.com/c/TimRobertsSound)
 - [Instagram](https://www.instagram.com/zygurt)
 - [Bandcamp](https://timrobertssound.bandcamp.com)
+
+# Test Video
+
+<video width="400" height="400" controls>
+ <source src="https://github.com/zygurt/zygurt.github.io/blob/master/Media/Sines.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
