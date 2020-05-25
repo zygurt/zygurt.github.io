@@ -15,7 +15,8 @@ Additional online presence:
 
 # Test Video
 
-<video width="400" height="400" controls>
+![Image](https://github.com/zygurt/zygurt.github.io/blob/master/Media/Sines_small.gif)
+<!-- <video width="400" height="400" controls>
  <source src="https://github.com/zygurt/zygurt.github.io/blob/master/Media/Sines.mp4" type="video/mp4">
 Your browser does not support the video tag.
-</video>
+</video> -->
