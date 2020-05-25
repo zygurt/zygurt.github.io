@@ -1,7 +1,3 @@
-layout: page
-title: "About"
-permalink: /about/
-
 ![Image](http://timrobertssound.com.au/Electronics_files/6002031946_d2b0cb3034_b.jpg)
 
 #About
@@ -15,6 +11,6 @@ Tim also likes to experiment with laser cutting, electronics, and more recently 
 
 Additional online presence:
 - [Personal Website](http://www.timrobertssound.com.au)
-- [Link](https://www.youtube.com/c/TimRobertsSound)
-- [Link](https://www.instagram.com/zygurt)
-- [Link](https://timrobertssound.bandcamp.com)
+- [Youtube](https://www.youtube.com/c/TimRobertsSound)
+- [Instagram](https://www.instagram.com/zygurt)
+- [Bandcamp](https://timrobertssound.bandcamp.com)
