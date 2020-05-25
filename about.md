@@ -1,6 +1,6 @@
 ![Image](http://timrobertssound.com.au/Electronics_files/6002031946_d2b0cb3034_b.jpg)
 
-#About
+# About
 
 Tim is currently pursuing a PhD in digital signal processing at Griffith University, Nathan, QLD, Australia.
 He has a Bachelor of Music Technology and a Bachelor of Electronic and Computer Engineering (Hons).
