@@ -14,7 +14,7 @@ His PhD is focused on improving time-scale modification of audio.
 Tim also likes to experiment with laser cutting, electronics, and more recently generative vfx in Processing3.
 
 Additional online presence:
-- [Link](www.timrobertssound.com.au)
-- [Link](www.youtube.com/c/TimRobertsSound)
-- [Link](www.instagram.com/zygurt)
-- [Link](timrobertssound.bandcamp.com)
+- [Personal Website](http://www.timrobertssound.com.au)
+- [Link](https://www.youtube.com/c/TimRobertsSound)
+- [Link](https://www.instagram.com/zygurt)
+- [Link](https://timrobertssound.bandcamp.com)
