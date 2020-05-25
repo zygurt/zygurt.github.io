@@ -13,10 +13,13 @@ Additional online presence:
 - [Instagram](https://www.instagram.com/zygurt)
 - [Bandcamp](https://timrobertssound.bandcamp.com)
 
+# Test Gif
+
+![](https://github.com/zygurt/zygurt.github.io/blob/master/Media/Sines_small.gif)
+
 # Test Video
 
-![Image](https://github.com/zygurt/zygurt.github.io/blob/master/Media/Sines_small.gif)
-<!-- <video width="400" height="400" controls>
- <source src="https://github.com/zygurt/zygurt.github.io/blob/master/Media/Sines.mp4" type="video/mp4">
+<video width="400" height="400" controls>
+ <source src="https://github.com/zygurt/zygurt.github.io/raw/master/Media/Sines.mp4" type="video/mp4">
 Your browser does not support the video tag.
-</video> -->
+</video>
