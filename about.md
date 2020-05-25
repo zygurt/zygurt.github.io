@@ -1,5 +1,3 @@
-![Image](http://timrobertssound.com.au/Electronics_files/6002031946_d2b0cb3034_b.jpg)
-
 # About
 
 Tim is currently pursuing a PhD in digital signal processing at Griffith University, Nathan, QLD, Australia.
@@ -12,12 +10,6 @@ Additional online presence:
 - [Youtube](https://www.youtube.com/c/TimRobertsSound)
 - [Instagram](https://www.instagram.com/zygurt)
 - [Bandcamp](https://timrobertssound.bandcamp.com)
-
-# Test Gif
-
-![](https://raw.githubusercontent.com/zygurt/zygurt.github.io/master/Media/Sines.gif)
-
-# Test Video
 
 <video width="400" height="400" controls loop>
  <source src="https://github.com/zygurt/zygurt.github.io/raw/master/Media/Sines.mp4" type="video/mp4">
